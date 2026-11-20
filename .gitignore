@@ -1,0 +1,5 @@
+.venv/
+*.csv
+.env
+.env.*
+__pycache__/
