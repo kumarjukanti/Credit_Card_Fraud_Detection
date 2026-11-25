@@ -1,5 +1,8 @@
 .venv/
+__pycache__/
+.pytest_cache/
 *.csv
+*.sqlite3
+*.parquet
 .env
 .env.*
-__pycache__/
